@@ -2,7 +2,7 @@
 
 I'm Marcio from Brazil 💚 
 
-- 🔭 I’m currently working at Philips 💜
+- 🔭 I’m currently working at Philips as a developer 💜
 - 🌱 I’m currently learning Full Stack Web Development
 
 ### 📫 Where to find me
