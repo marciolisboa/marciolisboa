@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="80">
 
 I'm Marcio from Brazil 💚 
 
@@ -9,5 +9,3 @@ I'm Marcio from Brazil 💚
 
 - <a href="https://www.linkedin.com/in/mjlbnu/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/> 👨💼
 - [My Website](https://www.programadorbr.com.br/) 😏🔗
-
-#### <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="80"> View my stats on Github 
