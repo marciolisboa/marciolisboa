@@ -11,6 +11,3 @@ I'm Marcio from Brazil 💚
 - [My Website](https://www.programadorbr.com.br/) 😏🔗
 
 #### <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="80"> View my stats on Github 
-   
-![Marcio GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciolisboa&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciolisboa&layout=compact)
