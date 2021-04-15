@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**marciolisboa/marciolisboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marcio from Brazil 💚, **40 years old** 👶🏻 and **10 years of coding** 🧐. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Philips 💜
+- 🌱 I’m currently learning Full Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Where to find me
+
+- <a href="https://www.linkedin.com/in/mjlbnu/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/> 👨💼
+- [My Website](https://www.programadorbr.com.br/) 😏🔗
+
+#### <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="80"> View my stats on Github 
+   
+![Marcio GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciolisboa&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciolisboa&layout=compact)
