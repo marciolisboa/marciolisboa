@@ -9,3 +9,4 @@ I'm Marcio from Brazil 💚
 
 - <a href="https://www.linkedin.com/in/mjlbnu/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/> 👨💼
 - [My Website](https://www.programadorbr.com.br/) 😏🔗
+- [My personal Github](https://github.com/mjlbnu/) 👨🏽‍💻📱🖥️
